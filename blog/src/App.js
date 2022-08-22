@@ -21,9 +21,9 @@ function App() {
         <div className="div-2">
           <h2>New</h2>
           <ol  >
-            <li>Test News hear</li>
-            <li>Test News hear</li>
-            <li>Test News hear</li>
+            <li>Travel</li>
+            <li>Cocking</li>
+            <li>Riding</li>
          
           </ol>
         </div>
