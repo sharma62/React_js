@@ -1,0 +1,43 @@
+ .header{
+  width:98%;
+  padding: 5px 10px 5px 10px;
+  border-bottom: 2px solid black;
+ }
+ header div h1{
+  color: rgb(27, 27, 201);
+ }
+ .header div h1 span {
+  color: red;
+ }
+.container{
+  width: 99.8%;
+  border: 1px solid black;
+  text-align: center;
+  display: grid;
+  grid-template-columns: 60% auto;
+  gap: 20px;
+  height: 500px;
+  overflow-y: scroll;
+  
+}
+ 
+ol,li{
+ padding: 5px ;
+ list-style-type: none;
+} 
+.footer{
+  padding: 20px ;
+  width: 100%;
+  display: flex;
+}
+.item-2{
+  margin: auto;
+  }
+.item-1{
+  line-height: 100px;
+  font-weight: bold;
+}
+.item-1 span{
+  color: red;
+}
+
